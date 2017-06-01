@@ -1,0 +1,24 @@
+{
+  "name": "todolistrestapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngdao/todoListExample.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Exampl"
+  ],
+  "author": "Nguyen Dao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngdao/todoListExample/issues"
+  },
+  "homepage": "https://github.com/ngdao/todoListExample#readme"
+}
